@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Technical Skills 🛠️
 
-!(https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)

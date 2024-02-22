@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ### Technical Skills 🛠️
 
-- Frontend: ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+- Frontend: (https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 

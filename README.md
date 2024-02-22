@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ### Contact
 [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png)](karimdib.dev@gmail.com) karimdib.dev@gmail.com
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40"/>](https://www.linkedin.com/in/il-tuo-profilo-linkedin/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="38"/>](https://www.linkedin.com/in/il-tuo-profilo-linkedin/)

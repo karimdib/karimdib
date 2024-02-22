@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### Contact
 [![Gmail](https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png)](karimdib.dev@gmail.com) 📩 karimdib.dev@gmail.com
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/karim-dib1021)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/karim-dib1021) j
 
 
 

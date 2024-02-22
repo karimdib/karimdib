@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 ### Technical Skills 🛠️
 
-![](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)](https://shields.io/) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)](https://shields.io/) [![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)](https://shields.io/)
+![](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5) [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)](https://shields.io/) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)](https://shields.io/) [![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js)](https://shields.io/) [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql)](https://shields.io/) [![Sass](https://img.shields.io/badge/-Sass-pink?style=flat&logo=sass)](https://shields.io/) [![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)](https://shields.io/) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)](https://shields.io/)
+
+
+
+

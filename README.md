@@ -1,5 +1,5 @@
 ### Hi there! 👋
-#It's a pleasure, I'm Karim Dib.
+It's a pleasure, I'm Karim Dib.
 <!--
 **karimdib/karimdib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

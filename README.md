@@ -23,5 +23,7 @@ Here are some ideas to get you started:
 
 ### Contact
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30"/>](https://www.linkedin.com/in/il-tuo-profilo-linkedin/)
+
+
 [<img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x.png" width="30"/>](mailto:indirizzo@email.com)
 

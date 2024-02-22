@@ -17,7 +17,5 @@ Here are some ideas to get you started:
 
 ### Technical Skills 🛠️
 
-- Frontend: <i class="fab fa-html5"></i> HTML, <i class="fab fa-css3-alt"></i> CSS, <i class="fab fa-js-square"></i> JavaScript, <i class="fab fa-vuejs"></i> Vue.js
-- Backend: <i class="fab fa-node-js"></i> Node.js, <i class="fab fa-js"></i> Express.js
-- Database: <i class="fas fa-database"></i> MySQL, <i class="fas fa-database"></i> MongoDB
+- Frontend: ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 

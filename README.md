@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 
 
-### Contact
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"/>](https://www.linkedin.com/in/il-tuo-profilo-linkedin/)       [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20"/>](mailto:indirizzo@email.com) 
 
